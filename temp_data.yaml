@@ -1,0 +1,7 @@
+names:
+- crop
+- weed
+nc: 2
+test: C:\Programming\Weed-Wacker\DATASETS\WeedCrop.v1i.yolov5pytorch\test\images
+train: C:\Programming\Weed-Wacker\DATASETS\WeedCrop.v1i.yolov5pytorch\train\images
+val: C:\Programming\Weed-Wacker\DATASETS\WeedCrop.v1i.yolov5pytorch\valid\images
